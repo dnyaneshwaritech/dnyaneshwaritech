@@ -1,8 +1,10 @@
 # 💫 Hi 👋, I'm Dnyaneshwari Patil
 **Software engineer | Open-source enthusiast | Lifelong learner**
 
-- 🌱 **I’m currently learning:** ML
-- 💬 Ask me about: JavaScript, Python, web development, and developer tooling.
+
+-  🔭 I’m currently working on something cool 😉
+- 🌱 Learning about Computer Vision and Machine Learning stuff
+- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - 📫 How to reach me: [dnyaneshwarip338@gmail.com] 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
