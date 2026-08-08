@@ -1,4 +1,4 @@
-# 💫 Hi 👋, Dnyaneshwari Patil
+# 💫 Hi 👋, I'm Dnyaneshwari Patil
 **                     **
 
 Email Me 👉 ✉️ **dnyaneshwarip338@gmail.com** For Collaboration/Project or Anything Else. 😊😊
