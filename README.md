@@ -1,10 +1,13 @@
 # 💫 Hi 👋, I'm Dnyaneshwari Patil
-**                     **
+**Software engineer | Open-source enthusiast | Lifelong learner**
 
-Email Me 👉 ✉️ **dnyaneshwarip338@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🌱 **I’m currently learning:** Python 
+- 🌱 **I’m currently learning:** ML
+- 💬 Ask me about: JavaScript, Python, web development, and developer tooling.
+- 📫 How to reach me: [dnyaneshwarip338@gmail.com] 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## Skills
+- Languages: C, C++, JavaScript, Python, HTML, CSS 
 
 <!-- Snake Game Repo View -->
 
