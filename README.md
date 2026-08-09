@@ -1,6 +1,17 @@
-# 💫 Hi 👋, I'm Dnyaneshwari Patil
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
 
-- 🌱 Learning about Machine Learning stuff
+# 💫 Hi 👋, I'm Dnyaneshwari Patil
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+
+<br>
+
+- 👨🏽‍💻 I’m currently a MCA Postgraduate student at Sanjivani University
+- 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+- 📚 I have a Bachelors in Computer Science from the University of Pune at India
+- 👯 I’m looking to collaborate on Web Development Related Projects
+- 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - 📫 How to reach me: [dnyaneshwarip338@gmail.com] 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
