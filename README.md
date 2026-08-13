@@ -1,21 +1,21 @@
+<!-- Hero / Intro -->
 <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
- <p/>
+  <img alt="Code" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" />
+</p>
 
-# 💫 Hi 👋, I'm Dnyaneshwari Patil
-<h3 align="center">Passionate MCA Student | Exploring the Boundless World of Technology</h3>
+# Hi 👋, I'm Dnyaneshwari Patil
+<h3 align="center">MCA Student • Full Stack & Machine Learning enthusiast</h3>
 
-<br>
+---
 
-- 👨🏽‍💻 I’m currently a MCA Postgraduate student at Sanjivani University
-- 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-- 📚 I have a Bachelors in Computer Science from the University of Pune at India
-- 👯 I’m looking to collaborate on Web Development Related Projects
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-- 📫 How to reach me: [dnyaneshwarip338@gmail.com] 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
+## About me
+- 🎓 MCA Postgraduate student at Sanjivani University
+- 💻 Self-taught Full Stack Developer and Machine Learning Developer
+- 🎓 Bachelor in Computer Science — University of Pune, India
+- 👯 Seeking collaborations on frontend/web projects
+- 💬 Open to help — feel free to ask me anything!
+- 📫 Email: [dnyaneshwarip338@gmail.com](mailto:dnyaneshwarip338@gmail.com)
+- ⚡ Fun fact: I love tech (and tech loves me!)
 
 <!-- Snake Game Repo View -->
 
