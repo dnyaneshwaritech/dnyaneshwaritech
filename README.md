@@ -3,7 +3,7 @@
  <p/>
 
 # 💫 Hi 👋, I'm Dnyaneshwari Patil
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate MCA Student | Exploring the Boundless World of Technology</h3>
 
 <br>
 
