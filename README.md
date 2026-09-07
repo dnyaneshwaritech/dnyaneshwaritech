@@ -1,20 +1,19 @@
 <!-- Hero / Intro -->
 <p align="center">
-  <img alt="Code" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" />
+  <img alt="Data Analysis" src="https://raw.githubusercontent.com/dnyaneshwaritech/dnyaneshwaritech/main/assets/data-hero.png" height="160" />
 </p>
 
 # Hi 👋, I'm Dnyaneshwari Patil
-<h3 align="center">MCA Student • Data Analyst & Machine Learning enthusiast</h3>
+<h3 align="center">MCA Student • Aspiring Data Analyst • Machine Learning Enthusiast</h3>
 
 ---
 
 ## About me
-- 🎓 MCA Postgraduate student at Sanjivani University
-- 💻 Self-taught Data Analyst and Machine Learning Developer
-- 🎓 Bachelors of Computer Science — University of Pune, India
-- 💬 Open to help — feel free to ask me anything!
-- 📫 Email: [dnyaneshwarip338@gmail.com](mailto:dnyaneshwarip338@gmail.com)
-- ⚡ Fun fact: I love tech (and tech loves me!)
+- 🎓 MCA Postgraduate student at Sanjivani University  
+- 💻 Aspiring Data Analyst — focused on exploratory data analysis, data cleaning, visualization, and basic predictive modelling  
+- 🎓 Bachelor of Computer Science — University of Pune, India  
+- 👯 Seeking collaborations on data projects, dashboards, and reporting pipelines  
+- 📫 Email: [dnyaneshwarip338@gmail.com](mailto:dnyaneshwarip338@gmail.com)  
 
 <!-- Snake Game Repo View -->
 
