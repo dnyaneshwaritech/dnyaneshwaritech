@@ -1,8 +1,4 @@
 <!-- Hero / Intro -->
-<p align="center">
-  <img alt="Data Analysis" src="https://raw.githubusercontent.com/dnyaneshwaritech/dnyaneshwaritech/main/assets/data-hero.png" height="160" />
-</p>
-
 # Hi 👋, I'm Dnyaneshwari Patil
 <h3 align="center">MCA Student • Aspiring Data Analyst • Machine Learning Enthusiast</h3>
 
