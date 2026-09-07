@@ -4,14 +4,14 @@
 </p>
 
 # Hi 👋, I'm Dnyaneshwari Patil
-<h3 align="center">MCA Student • Full Stack & Machine Learning enthusiast</h3>
+<h3 align="center">MCA Student • Data Analyst & Machine Learning enthusiast</h3>
 
 ---
 
 ## About me
 - 🎓 MCA Postgraduate student at Sanjivani University
-- 💻 Self-taught Full Stack Developer and Machine Learning Developer
-- 🎓 Bachelor in Computer Science — University of Pune, India
+- 💻 Self-taught Aata Analyst and Machine Learning Developer
+- 🎓 Bachelors of Computer Science — University of Pune, India
 - 👯 Seeking collaborations on frontend/web projects
 - 💬 Open to help — feel free to ask me anything!
 - 📫 Email: [dnyaneshwarip338@gmail.com](mailto:dnyaneshwarip338@gmail.com)
