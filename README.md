@@ -149,8 +149,9 @@
 ![](https://streak-stats.demolab.com/?user=dnyaneshwaritech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dnyaneshwaritech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dnyaneshwaritech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Contact
+- Email: dnyaneshwarip338@gmail.com  
+- LinkedIn: www.linkedin.com/in/dnyaneshwari-patil-92b633427
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
