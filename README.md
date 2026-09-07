@@ -10,7 +10,7 @@
 
 ## About me
 - 🎓 MCA Postgraduate student at Sanjivani University
-- 💻 Self-taught Aata Analyst and Machine Learning Developer
+- 💻 Self-taught Data Analyst and Machine Learning Developer
 - 🎓 Bachelors of Computer Science — University of Pune, India
 - 💬 Open to help — feel free to ask me anything!
 - 📫 Email: [dnyaneshwarip338@gmail.com](mailto:dnyaneshwarip338@gmail.com)
