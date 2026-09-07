@@ -12,7 +12,6 @@
 - 🎓 MCA Postgraduate student at Sanjivani University
 - 💻 Self-taught Aata Analyst and Machine Learning Developer
 - 🎓 Bachelors of Computer Science — University of Pune, India
-- 👯 Seeking collaborations on frontend/web projects
 - 💬 Open to help — feel free to ask me anything!
 - 📫 Email: [dnyaneshwarip338@gmail.com](mailto:dnyaneshwarip338@gmail.com)
 - ⚡ Fun fact: I love tech (and tech loves me!)
