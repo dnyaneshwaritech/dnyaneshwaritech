@@ -5,7 +5,7 @@
 ---
 
 ## About me
-- 🎓 MCA Postgraduate student at Sanjivani University  
+- 🎓 MCA student at Sanjivani University  
 - 💻 Aspiring Data Analyst — focused on exploratory data analysis, data cleaning, visualization, and basic predictive modelling  
 - 🎓 Bachelor of Computer Science — University of Pune, India  
 - 👯 Seeking collaborations on data projects, dashboards, and reporting pipelines  
