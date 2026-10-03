@@ -131,7 +131,7 @@
 
 ## Contact
 - Email: dnyaneshwarip338@gmail.com  
-- LinkedIn: www.linkedin.com/in/dnyaneshwari-patil-92b633427
+- LinkedIn: www.linkedin.com/in/dnyaneshwaripatil
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
